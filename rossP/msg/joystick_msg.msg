@@ -1,0 +1,16 @@
+time TimeStamp
+bool Teleop
+int32 Speed
+int32 Angle
+bool Coupling
+int32 Illumination
+int32 AlleyLights
+int32 TurningLights
+bool Brake
+int32 Offset
+bool Reset
+bool EmergencyStop
+bool EnabledEmergencyStop
+int32 TimeThreshold_ms
+int32 LeftWheel
+int32 RightWheel
